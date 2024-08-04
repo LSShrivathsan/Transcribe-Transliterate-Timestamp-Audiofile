@@ -37,7 +37,7 @@ To get started , follow these steps:
 4. **View Results:** See the transcribed text, transliterated script and word timestamps.
 
 
-#Here's how to use the tool:
+**Here's how to use the tool:**
 
 1. **Upload an Audio File:**
    - The app supports various audio formats. Upload your file to start processing.
