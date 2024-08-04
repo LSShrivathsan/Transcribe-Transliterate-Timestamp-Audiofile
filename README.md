@@ -15,8 +15,8 @@ To get started , follow these steps:
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/yourusername/WaveWhisper.git
-   cd WaveWhisper
+   git clone https://github.com/LSShrivathsan/Transcribe-Transliterate-Timestamp-Audiofile.git
+   cd Transcribe-Transliterate-Timestamp-Audiofile
    ```
 
 2. **Install the Required Dependencies:**
