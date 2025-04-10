@@ -4,6 +4,7 @@ from pydub import AudioSegment
 from pydub.utils import mediainfo
 from indic_transliteration import sanscript
 from indic_transliteration.sanscript import transliterate
+import os
 
 def convert_audio_format(uploaded_file):
     audio = AudioSegment.from_file(uploaded_file)
